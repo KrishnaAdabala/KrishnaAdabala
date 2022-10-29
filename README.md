@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KrishnaAdabala
-- 👀 I’m interested in solana developer
+- 👀 I’m interested in building projects on solana
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Solana Projects
 - 📫 How to reach me adabalavamsi2@gmail.com or twitter id: iamkrishna_6
